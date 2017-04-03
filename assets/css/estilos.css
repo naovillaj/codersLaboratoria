@@ -1,6 +1,6 @@
 #chile4, #peru5, #peru6{
 	display:block;
-	
+
 }
 
 #promociones{
@@ -10,6 +10,7 @@
 
 img{
 	width: 250px;
+	border-radius: 40px;
 
 }
 
